@@ -308,6 +308,12 @@ img {
 .skills__img {
   border-radius: 0.5rem;
 }
+.skills__angular {
+  width: 75%;
+}
+.skills__react {
+  width: 75%;
+}
 
 /* ===== WORK =====*/
 .work__container {
